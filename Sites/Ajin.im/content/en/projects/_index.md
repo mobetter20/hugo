@@ -1,5 +1,5 @@
 ---
-title: "Projects"
+title: "Services"
 weight: 10
 ---
 

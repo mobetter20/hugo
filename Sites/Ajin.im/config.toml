@@ -24,7 +24,7 @@ DefaultContentLanguage           = "en"                    # Default language fo
         allPostsArchiveFormat    = true                    # show all posts in an archive format
         numberOfProjectsToShow   = 3                       # Maximum number of projects to show on home page. Unset or comment out to show all projects
         localTime                = true                    # Show your current local time in contact section
-        timeZone                 = "America/Los_Angeles"   # Your timezone as in the TZ* column of this list: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+        timeZone                 = "Asia/Seoul"   # Your timezone as in the TZ* column of this list: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
         timeFormat               = "en-US"                 # Language specific format to use
     [params.projects]
         useTwoColumns            = false                   # Use a layout with two columns instead of three
@@ -51,7 +51,7 @@ DefaultContentLanguage           = "en"                    # Default language fo
         icon  = "linkedin-in" # icon name without the 'fa-'
         icon_pack = "fab"
     [[params.social]]
-        url = "mailto:youremail@email.com"  # For a direct email link, use "mailto:test@example.org".
+        url = "mailto:contact@ajin.im"  # For a direct email link, use "mailto:test@example.org".
         icon = "paper-plane" # icon name without the 'fa-'
         icon_pack = "fas"
     [[params.social]]
@@ -107,7 +107,7 @@ DefaultContentLanguage           = "en"                    # Default language fo
 
     [languages.ko]
         languageName     = "한국어"
-        languageCode     = "ko"
+        languageCode     = "ko-KR"
         contentDir       = "content/ko"
         weight           = 0
         title            = "Introduction"
@@ -115,23 +115,23 @@ DefaultContentLanguage           = "en"                    # Default language fo
             description  = "Website Description"   # Max 160 characters show in search results
             # footerText   = ""                      # Text to override default footer text (markdown allowed)
 
-    [languages.es]
-        languageName     = "Español"
-        languageCode     = "es"
-        contentDir       = "content/es"
-        weight           = 1
-        title            = "Introducción"
-        [languages.es.params]
-            description  = "Descripcion del sitio web"
+  #[languages.es]
+        #languageName     = "Español"
+        #languageCode     = "es"
+        #contentDir       = "content/es"
+        #weight           = 1
+        #title            = "Introducción"
+        #[languages.es.params]
+            #description  = "Descripcion del sitio web"
             # footerText   = ""
 
-    [languages.de]
-        languageName     = "Deutsch"
-        languageCode     = "de"
-        contentDir       = "content/de"
-        weight           = 2
-        title            = "Vorstellung"
-        [languages.de.params]
-            dateFormat   = "2. January 2006"
-            description  = "Beschreibung der Webseite"
+    #[languages.de]
+        #languageName     = "Deutsch"
+        #languageCode     = "de"
+        #contentDir       = "content/de"
+        #weight           = 2
+        #title            = "Vorstellung"
+        #[languages.de.params]
+            #dateFormat   = "2. January 2006"
+            #description  = "Beschreibung der Webseite"
             # footerText   = ""
