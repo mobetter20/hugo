@@ -1,6 +1,6 @@
 # section information
 section:
-  name: Skills
+  name: Services
   id: skills
   enable: true
   weight: 2
@@ -11,12 +11,12 @@ section:
 # Your Skills.
 # Give a summary of you each skill in the summary section.
 skills:
-- name: Kubernetes
+- name: Landing page
   logo: /images/sections/skills/kubernetes.png
   summary: "Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs."
   url: "https://kubernetes.io/"
 
-- name: Go Development
+- name: Company About page
   logo: /images/sections/skills/go.png
   summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable program."
   url: "https://golang.org/"

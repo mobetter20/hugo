@@ -1,7 +1,7 @@
 # section information
 section:
-  name: Service
-  id: service
+  name: Skills
+  id: skills
   enable: true
   weight: 2
   showOnNavbar: true
@@ -10,7 +10,7 @@ section:
 
 # Your Skills.
 # Give a summary of you each skill in the summary section.
-service:
+skills:
 - name: Kubernetes
   logo: /images/sections/skills/kubernetes.png
   summary: "Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs."

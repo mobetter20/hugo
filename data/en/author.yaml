@@ -2,8 +2,8 @@
 name: "Ajin"
 nickname: "Ajin"
 # greeting message before your name. it will default to "Hi! I am" if not provided
-greeting: "Hi, I'm"
-image: "images/author/jessica.png"
+greeting: "I'm"
+image: "images/author/profile1.png"
 # give your some contact information. they will be used in the footer
 contactInfo:
   email: "contact@ajin.im"
@@ -11,8 +11,8 @@ contactInfo:
 
 # some summary about what you do
 summary:
-  - Website copywriting
-  - Maketing copy
-  - Korean localization
+  - English website
+  - Comapny page 
+  - UI localization
   - Mission statement
-  - Pitch deck and company material
+  - Pitch deck
