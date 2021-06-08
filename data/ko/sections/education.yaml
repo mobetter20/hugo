@@ -1,6 +1,6 @@
 # section information
 section:
-  name: Education
+  name: History
   id: education
   template: sections/education.html # Use "sections/education-alt.html for alternate template.
   enable: true
@@ -10,11 +10,11 @@ section:
   # hideTitle: true
 
 degrees:
-- name: Ph.D in Quantum Cryptography
-  icon: fa-microscope
+- name: UI, technical writing, tutorials
+  icon: fa-window-restore
   timeframe: 2016-2020
   institution:
-    name: ABC University of Technology
+    name: Software Localization
     url: "#"
   grade: #(optional)
     scale: CGPA
@@ -27,11 +27,11 @@ degrees:
     url: "#"
   - title: Nullam vitae orci tincidunt purus viverra pulvinar.
     url: "#"
-- name: B.Sc. in Computer Science & Engineering
-  icon: fa-graduation-cap
+- name: Mobile game
+  icon: fa-tablet
   timeframe: 2012-2016
   institution:
-    name: University of XYZ
+    name: Mobile game launch
     url: "#"
   grade: #(optional)
     scale: CGPA

@@ -10,7 +10,7 @@ languages:
     weight: 2
   ko:
     title: "I'm Ajin"
-    languageName: "Korean"
+    languageName: "한국어"
     weight: 1
 
 
