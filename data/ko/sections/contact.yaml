@@ -1,0 +1,7 @@
+# section information
+section:
+  name: Contact
+  id: contact
+  enable: true
+  weight: 8
+  showOnNavbar: true
