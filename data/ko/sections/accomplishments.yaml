@@ -1,6 +1,6 @@
 # section information
 section:
-  name: Accomplishments
+  name: 붉은악마 위한 도움자료
   id: accomplishments
   enable: true
   weight: 7
@@ -11,7 +11,7 @@ section:
 
 # Your accomplishments
 accomplishments:
-- name: Linux Foundation System Administrator
+- name: 영어 웹사이트 가독성 체크
   timeline: "March 2018 - March 2019"
   organization:
     name: Linux Foundation
@@ -42,5 +42,3 @@ accomplishments:
     url: https://www.udemy.com
   courseOverview: Discover how to create responsive and high performance software. Develop programs with Golang that are highly Concurrent and Parallel. Improve your programming skills in Go with more advanced, mulithreading topics.
   certificateURL: "https://example.com"
- 
-

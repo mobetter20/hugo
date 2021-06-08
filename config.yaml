@@ -1,18 +1,18 @@
 baseURL: https://hugo-toha.github.io
-
-languageCode: en-us
-title: "I'm Ajin"
 theme: "toha"
 
-# Manage languages
-# For any more details, you can check the official documentation: https://gohugo.io/content-management/multilingual/
+DefaultContentLanguage : "ko"
+
 languages:
   en:
-    languageName: English
-    weight: 1
-  ko:
-    languageName: Korean
+    title: "I'm Ajin"
+    languageName: "English"
     weight: 2
+  ko:
+    title: "I'm Ajin"
+    languageName: "Korean"
+    weight: 1
+
 
 # Force a locale to be use, really useful to develop the application ! Should be commented in production, the "weight" should rocks.
 # DefaultContentLanguage: bn

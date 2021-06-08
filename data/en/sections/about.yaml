@@ -17,8 +17,12 @@ designation: I copywrite your English website so you can compete globally
 # your resume. this file path should be relative to you "static" directory
 resume: "files/resume.pdf"
 
+# about header
+header: "Konglish vs English"
+
 # a summary about you
-summary: 'I am a billingual who writes English slogan and copy like no other.  built OSS tools for [Kubernetes](https://kubernetes.io/) using GO. My tools help people to deploy their workloads in Kubernetes. Sometimes, I work on some fun projects such as writing a theme, etc.'
+summary: >
+  I am a passionate linguophile who write funny and effective copies and specializes in EN-KO localization. I've translated, transcreated, copywrote and pencil pushed for government agency, game studio, software company not out of spite for pencils but for the sheer fun of doing what I'm good at.
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
