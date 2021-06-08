@@ -1,6 +1,6 @@
 # section information
 section:
-  name: 영문 카피의 정석
+  name: Let's Go
   id: experiences
   enable: true
   weight: 3
@@ -11,11 +11,11 @@ section:
 # Your experiences
 experiences:
 - company:
-    name: Tell me Tell me
+    name: 영문 웹사이트 리뷰/컨설팅
     url: "https://www.example.co"
-    location: Dhaka Branch
+    location: 영문 웹사이트 리뷰/컨설팅
     # company overview
-    overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
+    overview: 당신의 세계 진출 계획을 알려주세요. Contact is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
   positions:
   - designation: Senior Software Engineer
     start: Nov 2019

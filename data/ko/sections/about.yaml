@@ -15,14 +15,14 @@ section:
 ##  url: "https://www.example.com"
 
 # your resume. this file path should be relative to you "static" directory
-resume: "files/CV.pdf"
+#resume: "files/CV.pdf"
 
 # about header
-header: 영문 웹페이지 아직도 번역 하세요?
+header: 영문 웹페이지 설마 번역 하세요?
 
 # a summary about you
 summary: >
-  세계 진출의 도약점인 영문 웹페이지. 아직도 번역 하시나요? I am a billingual who writes English slogan and copy like no other.
+  세계 진출의 발판, 영문 웹페이지. 아직도 번역 하시나요? I am a billingual who writes English slogan and copy like no other.
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
@@ -35,13 +35,9 @@ socialLinks:
   icon: "fab fa-reddit"
   url: "https://www.reddit.com/user/propagandaformyself"
 
-- name: Stackoverflow
-  icon: "fab fa-stack-overflow"
-  url: "#"
-
-- name: LinkedIn
-  icon: "fab fa-linkedin"
-  url: "#"
+##- name: Stackoverflow
+  ##icon: "fab fa-stack-overflow"
+  ##url: "#"
 
 - name: Twitter
   icon: "fab fa-twitter"
@@ -51,24 +47,34 @@ socialLinks:
   icon: "fab fa-facebook"
   url: "#"
 
+
+- name: CV
+  icon: "fas fa-file"
+  url: "files/CV.pdf"
+
 # Show your badges
 # You can show your verifiable certificates from https://www.credly.com.
 # You can also show a circular bar indicating the level of expertise on a certain skill
 badges:
 - type: soft-skill-indicator
-  name: Funny
-  percentage: 85
+  name: 웹페이지 검수
+  percentage: 100
   color: blue
 
 - type: soft-skill-indicator
-  name: Engagement
-  percentage: 90
+  name: 카피라이팅
+  percentage: 100
   color: yellow
 
 - type: soft-skill-indicator
-  name: Effective
-  percentage: 85
+  name: 모니터링
+  percentage: 100
   color: orange
+
+- type: soft-skill-indicator
+  name: 로컬라이제이션
+  percentage: 100
+  color: green
 
 # you can also provide color code instead of the color name
 # - type: soft-skill-indicator

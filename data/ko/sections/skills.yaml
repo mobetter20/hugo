@@ -1,6 +1,6 @@
 # section information
 section:
-  name: Services
+  name: 영문 카피라이팅
   id: skills
   enable: true
   weight: 2
@@ -11,19 +11,19 @@ section:
 # Your Skills.
 # Give a summary of you each skill in the summary section.
 skills:
-- name: 영문 랜딩페이지
+- name: 랜딩페이지
   logo: /images/sections/skills/kubernetes.png
-  summary: "Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs."
+  summary: "문 앞까지 온 고객님! 어떤 얼굴로 맞이하실 껀 가요? 자신감 있고 당신이 누구인지 세계에 보여줄 얼굴입니다. 진정한 가치를 알리세요.세계가 볼 회사의 얼굴"
   url: "https://kubernetes.io/"
 
-- name: 영어권 마케팅 카피
+- name: 마케팅 카피
   logo: /images/sections/skills/go.png
-  summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable program."
+  summary: "세계에서 경쟁할 만한 서비스를 개발하셨나요? 이제 그 가치를 알리고 세계가 기억할 수 있도록  해요!"
   url: "https://golang.org/"
 
 - name: 영문 회사정보
   logo: /images/sections/skills/cloud.png
-  summary: "Worked with most of the major clouds such as GCP, AWS, Azure etc."
+  summary: "1900...에 창립한 회사는.. 구시대 한자어를 그대로 구글번역 하셨나요? 세계 무대에 도착한 당신. 포구를 스마트하게 발표하세요."
 
 - name: 영문 피치 데크
   logo: /images/sections/skills/docker.svg
