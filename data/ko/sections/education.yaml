@@ -12,21 +12,26 @@ section:
 degrees:
 - name: 내 웹사이트의 건강은?
   icon: fa-window-restore
-  timeframe: 2-3 weeks
+  timeframe: 1-2 weeks
   institution:
     name: 영어 웹사이트 리뷰
     url: "#"
   grade: #(optional)
-    scale: CGPA
+    scale: 가성비
     achieved: 3.6
     outOf: 4
   publications: #(optional)
-  - title: 가장 빠르고 효과적인 서비스
-    url: "#"
-  - title:
-    url: "#"
-  - title: Nullam vitae orci tincidunt purus viverra pulvinar.
-    url: "#"
+  - title: 간단하고 쉬운 웹사이트 건강검진으로 민망한 혹은 결정적인 실수 예방!
+  - title: UX는 업데이트마다 바꾸지만 문구는 번역은 한번도 검증 받은 적 없다면? -> 리뷰와 함께 선택하실 수 있는 여러 문구를 제안합니다.
+  - title: 한 명의 사원이 '영어업무 전반'을 담당해 왔나요? 카피라이팅 전문 Ajin을 부르세요. Batman 시그널 필요 없습니다.
+  - title: 원어민 눈에 비친 어떻게 보일까 궁금하셨나요?
+  - title: 영국에서 먹고자는, Reddit에서 글쓰며 낄낄대는 Ajin이가 눈과 귀가 되어 솔직하게 피드백 드립니다.
+  extracurricularActivities: #(optional)
+  - 간단한 리뷰로 민망한 혹은 결정적인 실수 예방!
+  - 리뷰와 함께 선택하실 수 있는 여러 문구를 제안합니다.
+  - 카피라이팅 전문 Ajin을 부르세요. Batman 시그널 필요 없습니다.
+  - 영국에서 먹고자는, Reddit에서 글쓰며 낄낄대는 Ajin이가 눈과 귀가 되어 솔직하게 피드백 드립니다.
+
 - name: 세계 무대에 할 말이 있어요!
   icon: fa-tablet
   timeframe: 2 weeks -
@@ -54,8 +59,7 @@ degrees:
       achieved: 3.75
       outOf: 4
   publications: #(optional)
-  - title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    url: "#"
+  - title:
   - title: Fusce eu augue ut odio porttitor pulvinar.
     url: "#"
   extracurricularActivities: #(optional)

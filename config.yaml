@@ -1,4 +1,4 @@
-baseURL: https://hugo-toha.github.io
+baseURL: https://ajin.onrender.com/
 theme: "toha"
 
 DefaultContentLanguage : "ko"
@@ -104,4 +104,4 @@ params:
 
     # Show/hide disclaimer notice in the footer. Default is "false".
     disclaimer:
-      enable: true
+      enable: false
