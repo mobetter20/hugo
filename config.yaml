@@ -1,4 +1,4 @@
-baseURL: https://ajin.onrender.com/
+baseURL: imajin.netlify.app
 theme: "toha"
 
 DefaultContentLanguage : "ko"
