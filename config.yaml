@@ -75,9 +75,9 @@ params:
   enableTOC: true
 
   # If you want to use different country flag for a language, specify them here.
-  flagOverwrites:
-  - languageCode: ko
-  - countryCode: ko
+  ##flagOverwrites:
+  ##- languageCode: ko
+  ## countryCode: ko
 
   # Provide footer configuration.
   footer:
@@ -100,8 +100,8 @@ params:
     newsletter:
     enable: false
     provider: mailchimp
-    ##  mailchimpURL: https://github.us1.list-manage.com/subscribe/post?u=19de52a4603135aae97163fd8&amp;id=094a24c76e
+    mailchimpURL: https://github.us1.list-manage.com/subscribe/post?u=19de52a4603135aae97163fd8&amp;id=094a24c76e
 
     # Show/hide disclaimer notice in the footer. Default is "false".
     disclaimer:
-      enable: false
+      enable: true
