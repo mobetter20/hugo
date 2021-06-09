@@ -75,9 +75,9 @@ params:
   enableTOC: true
 
   # If you want to use different country flag for a language, specify them here.
-  # flagOverwrites:
-  # - languageCode: en
-  #   countryCode: us
+  flagOverwrites:
+  - languageCode: ko
+  - countryCode: ko
 
   # Provide footer configuration.
   footer:
