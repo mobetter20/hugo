@@ -1,37 +1,37 @@
 # section information
 section:
-  name: History
+  name: Service
   id: education
   template: sections/education.html # Use "sections/education-alt.html for alternate template.
   enable: true
-  weight: 4
+  weight: 2
   showOnNavbar: true
   # Can optionally hide the title in sections
   # hideTitle: true
 
 degrees:
-- name: UI, technical writing, tutorials
+- name: 내 웹사이트의 건강은?
   icon: fa-window-restore
-  timeframe: 2016-2020
+  timeframe: 2-3 weeks
   institution:
-    name: Software Localization
+    name: 영어 웹사이트 리뷰
     url: "#"
   grade: #(optional)
     scale: CGPA
     achieved: 3.6
     outOf: 4
   publications: #(optional)
-  - title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+  - title: 가장 빠르고 효과적인 서비스
     url: "#"
-  - title: Fusce eu augue ut odio porttitor pulvinar.
+  - title:
     url: "#"
   - title: Nullam vitae orci tincidunt purus viverra pulvinar.
     url: "#"
-- name: Mobile game
+- name: 세계 무대에 할 말이 있어요!
   icon: fa-tablet
-  timeframe: 2012-2016
+  timeframe: 2 weeks -
   institution:
-    name: Mobile game launch
+    name: 영문 카피라이팅
     url: "#"
   grade: #(optional)
     scale: CGPA
@@ -59,31 +59,32 @@ degrees:
   - title: Fusce eu augue ut odio porttitor pulvinar.
     url: "#"
   extracurricularActivities: #(optional)
-  - In vitae facilisis est, eget porta sem.
+  - 프리젠테이션, 마케팅 슬로건, ..
   - Vestibulum consectetur lorem justo, at laoreet lorem feugiat et.
   - Duis sed massa feugiat, ornare justo et, aliquam est.
   - Pellentesque ut fringilla magna.
-- name: Higher Secondary School Certificate
+- name: 말 실수 없죠? 지켜드릴께요!
   icon: fa-university
-  timeframe: 2010-2012
+  timeframe: 상시
   institution:
-    name: MST College of Science
+    name: 모니터링 구독
     url: "#"
   grade: #(optional)
     scale: GPA
     achieved: 5
     outOf: 5
   extracurricularActivities: #(optional)
-  - In vitae facilisis est, eget porta sem.
-  - Vestibulum consectetur lorem justo, at laoreet lorem feugiat et.
-  - Duis sed massa feugiat, ornare justo et, aliquam est.
-  - Pellentesque ut fringilla magna.
-- name: Secondary School Certificate
+  - 매일, 매주, 매달 기간 설정하여 직접 작성하신 영문 카피에 큰 오류가 없는지 모니터링합니다.
+  - 직접 작성하세요. 오류가 있으면 알려드릴께요.
+  - 저렴하고 효율적이게 직접 개척하세요 안전벨트가 되어 드릴께요
+- name: 여기서 번쩍 저기서 번쩍 전우치 필요해요!
   icon: fa-school
-  timeframe: 2005-2010
+  timeframe: 상시
   institution:
-    name: JK School of Science
+    name: 로컬라이제이션 컨설팅
   grade: #(optional)
     scale: GPA
     achieved: 4.5
     outOf: 5
+  extracurricularActivities: #(optional)
+  - 혹시 큰 실수가 있었나요? 지속해서 서비스가 필요하신가요? 따로 문의해주세요. 같이 해결해봐요.

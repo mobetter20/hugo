@@ -3,7 +3,7 @@ section:
   name: Let's Go
   id: experiences
   enable: true
-  weight: 3
+  weight: 4
   showOnNavbar: true
   # Can optionally hide the title in sections
   # hideTitle: true
@@ -11,51 +11,50 @@ section:
 # Your experiences
 experiences:
 - company:
-    name: 영문 웹사이트 리뷰/컨설팅
+    name: 어디서 시작해서 어디로 갈까요?
     url: "https://www.example.co"
-    location: 영문 웹사이트 리뷰/컨설팅
+    location: hi@ajin.im 또는 아래 양식을 통해 연락주세요. 세계 점령 시작합시다.
     # company overview
-    overview: 당신의 세계 진출 계획을 알려주세요. Contact is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
+    overview: 당신의 세계 진출 계획을 알려주세요. 핵심 서비스 및 상품, 브랜드 미션 및 정체성. 타겟 국가 및 고객층을 바탕으로 효과적이고 기억에 남는 카피라이팅에 착수합니다.
   positions:
-  - designation: Senior Software Engineer
-    start: Nov 2019
+  - designation: 이미 영문 웹사이트 있으세요?
+    end: 영문/국문 웹사이트 링크를 포함하여 연락주세요
     # don't provide end date if you are currently working there. It will be replaced by "Present"
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Design and develop XYZ tool for ABC task
-    - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
-    - Lead backend team.
+    - 주신 정보를 바탕으로 해당 마켓 리서칭을 하여 영문 웹페이지 수정안을 작성합니다.
+    - 카피라이팅 작업 동안 피드백 또는 내용 확인을 위한 커뮤니케이션을 지속합니다. (바쁜 스타트업 창립자 처음 미팅, 중간 피드백, 마지막 결과물 전달 외엔 결정 전담하실 수 있습니다. 커뮤니케이션 빈도 및 절차는 처음 미팅에서 결정합니다.)
+    - 수정안 ➡️ 피드백 ➡️ 최종안 전달합니다.
 
-  - designation: Junior Software Engineer
-    start: Nov 2017
-    end: Oct 2019
+  - designation: 영문 웹사이트 계획 중이세요?
+    end: 국문 웹사이트 링크와 글로벌 런칭 관련 계획을 간단히 포함하여 연락주세요
     responsibilities:
-    - Implement and test xyz feature for abc tool.
-    - Support client for abc tool.
-    - Learn k,d,w technology for xyz.
+    - 주신 정보 및 해당 마켓 리서칭을 바탕으로 하여 영문 웹페이지 콘텐츠를 기획하고 초안을 작성합니다.
+    - 카피라이팅 작업 동안 피드백 또는 내용 확인을 위한 커뮤니케이션을 지속합니다. * 초안의 경우 수정안 보다 더 많은 커뮤니케이션이 필요할 수 있습니다. (바쁜 스타트업 창립자 처음 미팅, 중간 피드백, 마지막 결과물 전달 외엔 결정 전담하실 수 있습니다. 커뮤니케이션 빈도 및 절차는 처음 미팅에서 결정합니다.)
+    - 초안 ➡️ 피드백 ➡️ 최종안 전달합니다.
 
 - company:
-    name: PreExample Co.
+    name: 마케팅 및 회사 소개 영문 카피 및 기타 로컬라이제이션
     url: "https://www.example.com"
-    location: Nowhere
-    overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
+    location: Infinity and beyond!
+    overview:
   positions:
-  - designation: Software Engineer
+  - designation: 더 빨리, 더 멀리 가볼까요?
     start: March 2016
     end: May 2017
     responsibilities:
-    - Write lots of example codes.
-    - Read lots of examples.
-    - See lots of example videos.
+    - 회사 소개 페이지 (About us..) Pitch deck,
+    - Marketing slogan
+    - 앱, SW 로컬라이제이션
 
 - company:
-    name: Intern Counting Company (ICC).
+    name: 웹사이트 모니터링, 로컬라이제이션 컨설팅
     url: "https://www.example.com"
-    location: Intern Land
+    location: Infinity and beyond!
     overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
   positions:
-  - designation: Intern
+  - designation: 항상 지켜보겠습니다.
     start: Jun 2015
     end: Jan 2016
     responsibilities:

@@ -18,11 +18,11 @@ section:
 #resume: "files/CV.pdf"
 
 # about header
-header: 영문 웹페이지 설마 번역 하세요?
+header: 하나 밖에 없는 영어 웹사이트, 설마 '번역' 돌리셨나요?
 
 # a summary about you
 summary: >
-  세계 진출의 발판, 영문 웹페이지. 설마 '번역' 하셨나요? 소프트웨어, 게임, 예술교육계 로컬라이제이션 경력의 Ajin이 engaging & effective 한 카피라이팅으로 From 🤦 콩글리쉬 To 한류 🧨.
+  세계진출의 도약점, 영어 웹사이트. 원어민 고객에게 어떻게 보이는지 아세요? 콩글리쉬, 기계적 번역투, 혼란스러운 메세지로 당신의 진정한 가치를 가리고 계시진 않나요? 로컬라이제이션 전문가, 프리랜서 번역가 경력의 영어 블로거 Ajin과 함께 콩글리쉬🤦에서 한류 🌟로 세계진출하세요!
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
@@ -41,11 +41,11 @@ socialLinks:
 
 - name: Twitter
   icon: "fab fa-twitter"
-  url: "#"
+  url: "https://www.twitter.com/propagandaformyself"
 
-- name: Facebook
-  icon: "fab fa-facebook"
-  url: "#"
+##- name: Facebook
+  ##icon: "fab fa-facebook"
+  ##url: "#"
 
 
 - name: CV

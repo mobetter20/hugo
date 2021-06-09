@@ -1,6 +1,6 @@
 # section information
 section:
-  name: Writings
+  name: Samples
   id: projects
   enable: true
   weight: 5
@@ -21,44 +21,36 @@ buttons:
 
 # your projects
 projects:
-- name: Kubernetes
+- name: SW company
   logo: /images/sections/projects/kubernetes.png
-  role: Contributor
-  timeline: "March 2018 - Present"
-  repo: https://github.com/kubernetes/kubernetes # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  role: 인하우스 로컬라이제이션 매니저
+  timeline: "July 2019 - July 2020"
+  url: "https://www.smartmaker.com/ups/en_smweb8/index.html" # If your project is a public repo on GitHub, then provide this link. it will show star count.
   #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
-  summary: Production-Grade Container Scheduling and Management.
-  tags: ["professional", "kubernetes", "cloud"]
+  summary: >
+    노코딩 앱메이커 UI 로컬라이제이션, UX 컨설팅, 웹페이지 마케팅 카피라이팅, 튜토리얼 스크립트 제작
+  tags: ["professional", "UI", "webpage", "SW", "tutorial"]
 
-- name: Tensorflow
-  logo: /images/sections/projects/tensorflow.png
-  role: Developer
-  timeline: "Jun 2018 - Present"
-  repo: https://github.com/tensorflow/tensorflow
-  #url: ""
-  summary: An Open Source Machine Learning Framework for Everyone.
-  tags: ["professional", "machine-learning"]
+- name: 모바일 게임 로컬라이제이션🕹️
+#logo: /images/sections/projects/tensorflow.png
+  role: 인하우스 로컬라이제이션 매니저
+  timeline: "Dec 2017 - Jun 2019"
+  #repo: https://github.com/tensorflow/tensorflow
+  url: "http://www.amusingheroes.com/"
+  summary: 모바일 게임 글로벌 출시 위한 번역, 트랜스크리에이팅, 카피라이팅. 게임 텍스트 영어, 스페인어, 중국어 번역. 보이스 오버 관리. 해외 런칭 기획. 영문 웹사이트, 소셜미디어 카피라이팅
+  tags: ["professional", "game", "multi-lingual"]
 
-- name: A sample academic paper
-  role: Team Lead
-  timeline: "Jan 2017 - Nov 2017"
-  url: "https://www.example.com"
-  summary: Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente eius reprehenderit animi suscipit autem eligendi esse amet aliquid error eum. Accusantium distinctio soluta aliquid quas placeat modi suscipit eligendi nisi.
-  tags: ["academic","iot"]
+- name: 일 안할 때는? 코미디 블로거😜
+  role: writer
+  timeline: "since 2020"
+  url: "https://reddit.com/user/propagandaformyself"
+  summary: 코로나 시대에는 집에서 글쓰기! Reddit 다양한 그룹에서 코미디 작가로 매일 평균 백여건 likes!
+  tags: ["hobby", "reddit", "SNS", "comedy", "popular"]
 
-- name: Nocode
-  logo: /images/sections/projects/no-code.png
-  role: Nothing
-  timeline: "Oct 2019 - Dec 2019"
-  repo: https://github.com/kelseyhightower/nocode
-  #url: ""
-  summary: The best way to write secure and reliable applications. Write nothing; deploy nowhere.
-  tags: ["hobby", "fun"]
-
-- name: Toha
-  logo: /images/sections/projects/toha.png
-  role: Owner
-  timeline: "Jun 2019 - Present"
-  repo: https://github.com/hossainemruz/toha
-  summary: A Hugo theme for personal portfolio.
-  tags: ["hobby","hugo","theme","professional"]
+- name: 개인 블로그
+  #logo: /images/sections/projects/no-code.png
+  role: writer
+  timeline: "since 2020"
+  url: "https://blackballoons.github.io/"
+  summary: This is what I do! 소셜미디어 말고도 개인 블로그에 간혹 글을 쓴답니다~
+  tags: ["hobby", "blog"]

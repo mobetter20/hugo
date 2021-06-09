@@ -1,9 +1,9 @@
 # section information
 section:
-  name: 영문 카피라이팅
+  name: Contents
   id: skills
   enable: true
-  weight: 2
+  weight: 3
   showOnNavbar: true
   # Can optionally hide the title in sections
   # hideTitle: true
@@ -13,37 +13,28 @@ section:
 skills:
 - name: 랜딩페이지
   logo: /images/sections/skills/kubernetes.png
-  summary: "문 앞까지 온 고객님! 어떤 얼굴로 맞이하실 껀 가요? 자신감 있고 당신이 누구인지 세계에 보여줄 얼굴입니다. 진정한 가치를 알리세요.세계가 볼 회사의 얼굴"
-  url: "https://kubernetes.io/"
+  summary: "Hellow World! 당신이 누구인지 세계에 보여줄 랜딩 페이지. 어떤 목소리로 고객을 맞이하실 건가요? 당신의 가치, 당신의 목소리를 그들의 언어로 만들어드립니다."
+  #url: "https://kubernetes.io/"
 
 - name: 마케팅 카피
   logo: /images/sections/skills/go.png
-  summary: "세계에서 경쟁할 만한 서비스를 개발하셨나요? 이제 그 가치를 알리고 세계가 기억할 수 있도록  해요!"
-  url: "https://golang.org/"
+  summary: "세계에서 경쟁할 만한 서비스를 개발하셨나요? 이제 그 가치에 걸맞는 구절을 뽑아내 세계에 알립시다!"
+  #url: "https://golang.org/"
 
 - name: 영문 회사정보
   logo: /images/sections/skills/cloud.png
-  summary: "1900...에 창립한 회사는.. 구시대 한자어를 그대로 구글번역 하셨나요? 세계 무대에 도착한 당신. 포구를 스마트하게 발표하세요."
+  summary: "1900...에 창립한 회사는.. 구시대 한자어를 그대로 구글번역 하셨나요? 세계 무대에 도착한 당신..당신은 소중하잖아요?!"
 
 - name: 영문 피치 데크
   logo: /images/sections/skills/docker.svg
-  summary: "Write most of the programs as dockerized container. Experienced with multi-stage, multi-arch build process."
+  summary: "당신의 미션은..세상을 예쁘게 하는 것입니까? Real, natural, passionate 은 국어에서 영어로 가는 동안 길을 잃진 않았나요? (pitch deck, missions statement, press kit)"
   url: "https://www.docker.com/"
 
-- name: Prometheus
+- name: UI 로컬라이제이션
   logo: /images/sections/skills/prometheus.png
-  summary: "Capable of setup, configure Prometheus metrics. Experienced with PromQL, AlertManager. Also, experienced with writing metric exporters."
+  summary: "한영으로 번역했더니 자리가 모자라나요? 😭 영어 로컬라이제이션 제품 기획 단계 동안 잊고 계셨나요? 😰 한숨 그만 쉬고 우리 제대로 다시 시작합시다!"
   url: "https://prometheus.io/"
 
-- name: Linux
+- name: 검수 및 모니터링
   logo: /images/sections/skills/linux.png
-  summary: "Using as the main operating system. Capable of writing bash/shell scripts."
-
-- name: Git
-  logo: /images/sections/skills/git.png
-  summary: "Experienced with git-based development. Mostly, use Github. Also, have experience in working with GitLab."
-  url: "https://git-scm.com/"
-
-- name: C++
-  logo: /images/sections/skills/c++.png
-  summary: "Know basic C/C++ programming. Used for contest programming and problem solving."
+  summary: "못하는 일 없는 스타트업 여러분! 직접 영어로 작성하시나요? 혹시 실수가 없는지 간단한 리뷰, 검수 해드립니다. 매일, 매주, 매달 모니터링 예약하시면 Ajin이 가디언 되어 지켜볼께요!"

@@ -1,5 +1,5 @@
 ---
-title: "Top 5 mistakes"
+title: "번역 mythbuster"
 date: 2021-06-08
 descriptions: common mistake in big or small company EN page
 menu:
@@ -9,5 +9,5 @@ menu:
 
 
 ---
-
-coming soon
+큰 회사는 망신 번역 없다?
+FALSE!

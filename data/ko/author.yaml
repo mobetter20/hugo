@@ -2,17 +2,17 @@
 name: "Ajin"
 nickname: "Ajin"
 # greeting message before your name. it will default to "Hi! I am" if not provided
-greeting: "Hi I'm"
+greeting: "Hi, I'm"
 image: "images/author/profile1.png"
 # give your some contact information. they will be used in the footer
 contactInfo:
   email: "contact@ajin.im"
-##  phone: ""
+##  phone: ""ㅎ
 
 # some summary about what you do
 summary:
   - 영문 웹사이트 카피라이팅
-  - 영어권 마케팅 카피
-  - 회사 정보, 미션, 피치 영문 카피
-  - UI 로컬라이제이션
+  - 영문 마케팅 카피, 슬로건
+  - 회사 소개 영문 자료, 피치, 프리젠테이션
+  - 소프트웨어, 앱 UI 로컬라이제이션
   - 로컬라이제이션 컨설팅
