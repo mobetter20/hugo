@@ -1,5 +1,5 @@
 [build]
-command = "hugo --gc --minify"
+command = "hugo --minify"
 publish = "public"
 
 [context.production.environment]
@@ -9,14 +9,14 @@ HUGO_THEME         = "toha"
 HUGO_VERSION       = "0.77.0"
 
 [context.split1]
-command = "hugo"
+command = "hugo --minify"
 
     [context.split1.environment]
     HUGO_ENV     = "production"
     HUGO_VERSION = "0.77.0"
 
 [context.deploy-preview]
-command = "hugo $DEPLOY_PRIME_URL"
+command = "hugo --minify $DEPLOY_PRIME_URL"
 
     [context.deploy-preview.environment]
     HUGO_VERSION = "0.77.0"
@@ -24,7 +24,7 @@ command = "hugo $DEPLOY_PRIME_URL"
 
 
 [context.branch-deploy]
-command = "hugo $DEPLOY_PRIME_URL"
+command = "hugo --minify $DEPLOY_PRIME_URL"
 
     [context.branch-deploy.environment]
     HUGO_VERSION = "0.77.0"
