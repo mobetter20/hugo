@@ -6,5 +6,9 @@ section:
   weight: 8
   showOnNavbar: true
 
-##header:
-  ##name: tell me about your project
+
+name: "Your name"
+email: "Email"
+company: "Company"
+website: "Website"
+service: "Service"
