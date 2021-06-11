@@ -33,7 +33,7 @@ degrees:
   - 영국에서 먹고자는, Reddit에서 글쓰며 낄낄대는 Ajin이가 눈과 귀가 되어 솔직하게 피드백 드립니다.
 
 - name: 세계 무대에 할 말이 있어요!
-  icon: fa-tablet
+  icon: fa-edit
   timeframe: 2 weeks -
   institution:
     name: 영문 카피라이팅
@@ -68,7 +68,7 @@ degrees:
   - Duis sed massa feugiat, ornare justo et, aliquam est.
   - Pellentesque ut fringilla magna.
 - name: 말 실수 없죠? 지켜드릴께요!
-  icon: fa-university
+  icon: fa-clock
   timeframe: 상시
   institution:
     name: 모니터링 구독
@@ -82,7 +82,7 @@ degrees:
   - 직접 작성하세요. 오류가 있으면 알려드릴께요.
   - 저렴하고 효율적이게 직접 개척하세요 안전벨트가 되어 드릴께요
 - name: 여기서 번쩍 저기서 번쩍 전우치 필요해요!
-  icon: fa-school
+  icon: fa-hands-helping
   timeframe: 상시
   institution:
     name: 로컬라이제이션 컨설팅

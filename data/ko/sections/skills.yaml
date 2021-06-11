@@ -23,7 +23,7 @@ skills:
 
 - name: 영문 회사정보
   logo: /images/sections/skills/cloud.png
-  summary: "1900...에 창립한 회사는.. 구시대 한자어를 그대로 구글번역 하셨나요? 세계 무대에 도착한 당신..당신은 소중하잖아요?!"
+  summary: "1900...에 창립한 회사는..구시대 한자어를 그대로 구글번역 하셨나요? 세계 무대에 도착한 당신..당신은 소중하잖아요?!"
 
 - name: 영문 피치 데크
   logo: /images/sections/skills/docker.svg

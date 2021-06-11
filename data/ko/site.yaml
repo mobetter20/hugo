@@ -12,8 +12,9 @@ description: Portfolio and personal blog of Ajin.
 # specify the list of custom menus that you want to show in the top navbar.
 # they will be separated by a divider from the main menus.
 customMenus:
-- name: Docs
-  url: https://toha-guides.netlify.app/posts/
+- name: Contact
+#- : "contact@ajin.im"
+##let's add contactpage here
 
 # Specify OpenGraph Headers
 ##openGraph:

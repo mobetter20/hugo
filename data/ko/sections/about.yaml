@@ -21,8 +21,8 @@ section:
 header: 하나 밖에 없는 영어 웹사이트, 설마 '번역' 돌리셨나요?
 
 # a summary about you
-summary: >
-  세계진출의 도약점, 영어 웹사이트. 원어민 고객에게 어떻게 보이는지 아세요? 콩글리쉬, 기계적 번역투, 혼란스러운 메세지로 당신의 진정한 가치를 가리고 계시진 않나요? 로컬라이제이션 전문가, 프리랜서 번역가 경력의 영어 블로거 Ajin과 함께 콩글리쉬🤦에서 한류 🌟로 세계진출하세요!
+summary: |
+  세계진출의 도약점인 영어 웹사이트. 원어민 고객에게 어떻게 보이는지 아세요? 콩글리쉬, 기계적 번역투, 혼란스러운 메세지로 당신의 진정한 가치를 가리 계시진 않나요? 로컬라이제이션 전문 영어 블로거 Ajin과 콩글리쉬🤦에서 한류 🌟로 세계진출하세요!
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
@@ -57,7 +57,7 @@ socialLinks:
 # You can also show a circular bar indicating the level of expertise on a certain skill
 badges:
 - type: soft-skill-indicator
-  name: 웹페이지 검수
+  name: 웹페이지 리뷰
   percentage: 100
   color: blue
 
