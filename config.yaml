@@ -1,4 +1,4 @@
-baseURL: imajin.netlify.app
+baseURL: https://imajin.netlify.app/
 theme: "toha"
 
 DefaultContentLanguage : "ko"
