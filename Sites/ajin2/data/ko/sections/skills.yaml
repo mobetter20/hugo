@@ -1,0 +1,44 @@
+# section information
+section:
+  name: Contents
+  id: skills
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+- name: 랜딩페이지
+  logo: /images/sections/skills/kubernetes.png
+  summary: "Hellow World! 당신이 누구인지 세계에 보여줄 랜딩 페이지. 어떤 목소리로 고객을 맞이하실 건가요? 당신의 가치, 당신의 목소리를 그들의 언어로 만들어드립니다."
+  #url: "https://kubernetes.io/"
+
+- name: 마케팅 카피
+  logo: /images/sections/skills/go.png
+  summary: "세계에서 경쟁할 만한 서비스를 개발하셨나요? 이제 그 가치에 걸맞는 구절을 뽑아내 세계에 알립시다!"
+  #url: "https://golang.org/"
+
+- name: 영문 회사정보
+  logo: /images/sections/skills/cloud.png
+  summary: "1900...에 창립한 회사는..구시대 한자어를 그대로 구글번역 하셨나요? 세계 무대에 도착한 당신..당신은 소중하잖아요?!"
+
+- name: 영문 피치 데크
+  logo: /images/sections/skills/docker.svg
+  summary: "당신의 미션은..세상을 예쁘게 하는 것입니까? Real, natural, passionate 은 국어에서 영어로 가는 동안 길을 잃진 않았나요? (pitch deck, missions statement, press kit)"
+  url: "https://www.docker.com/"
+
+- name: UI 로컬라이제이션
+  logo: /images/sections/skills/prometheus.png
+  summary: "한영으로 번역했더니 자리가 모자라나요? 😭 영어 로컬라이제이션 제품 기획 단계 동안 잊고 계셨나요? 😰 한숨 그만 쉬고 우리 제대로 다시 시작합시다!"
+  url: "https://prometheus.io/"
+
+- name: 검수 및 모니터링
+  logo: /images/sections/skills/linux.png
+  summary: "못하는 일 없는 스타트업 여러분! 직접 영어로 작성하시나요? 혹시 실수가 없는지 간단한 리뷰, 검수 해드립니다. 매일, 매주, 매달 모니터링 예약하시면 Ajin이 가디언 되어 지켜볼께요!"
+
+- name: SEO 최적화
+  logo: /images/sections/skills/linux.png
+  summary: "타게팅 하시는 키워드 영문 혹은 국문 주시면 Google ranking 조사 통해 가장 효율적인 키워드 조사하여 키워드 보고와 함께 사용할 수 있는 샘플 문구, 슬로건 여려개 드립니다."

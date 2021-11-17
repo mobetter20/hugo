@@ -1,0 +1,14 @@
+# section information
+section:
+  name: Contact
+  id: contact
+  enable: true
+  weight: 8
+  showOnNavbar: true
+
+
+name: "Your name"
+email: "Email"
+company: "Company"
+website: "Website"
+service: "Service"

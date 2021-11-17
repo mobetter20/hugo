@@ -1,0 +1,77 @@
+# section information
+section:
+  name: About
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+# your designation
+designation: I copywrite your English website so you can compete globally
+# your company information
+##company:
+##  name: Example Co.
+##  url: "https://www.example.com"
+
+# your resume. this file path should be relative to you "static" directory
+resume: "files/resume.pdf"
+
+# about header
+header: "Konglish vs English"
+
+# a summary about you
+summary: >
+  I am a passionate linguophile who write funny and effective copies and specializes in EN-KO localization. I've translated, transcreated, copywrote and pencil pushed for government agency, game studio, software company not out of spite for pencils but for the sheer fun of doing what I'm good at.
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Email
+  icon: "fas fa-envelope"
+  url: "example@gmail.com"
+
+- name: Github
+  icon: "fab fa-github"
+  url: "https://www.github.com/example"
+
+- name: Stackoverflow
+  icon: "fab fa-stack-overflow"
+  url: "#"
+
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "#"
+
+- name: Twitter
+  icon: "fab fa-twitter"
+  url: "#"
+
+- name: Facebook
+  icon: "fab fa-facebook"
+  url: "#"
+
+# Show your badges
+# You can show your verifiable certificates from https://www.credly.com.
+# You can also show a circular bar indicating the level of expertise on a certain skill
+badges:
+- type: soft-skill-indicator
+  name: Funny
+  percentage: 85
+  color: blue
+
+- type: soft-skill-indicator
+  name: Engagement
+  percentage: 90
+  color: yellow
+
+- type: soft-skill-indicator
+  name: Effective
+  percentage: 85
+  color: orange
+
+# you can also provide color code instead of the color name
+# - type: soft-skill-indicator
+#   name: Example 1
+#   percentage: 75
+#   color: "#00adb5"

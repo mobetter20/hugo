@@ -1,0 +1,83 @@
+# section information
+section:
+  name: About
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+# your designation
+#designation:
+# your company information
+##company:
+##  name: Example Co.
+##  url: "https://www.example.com"
+
+# your resume. this file path should be relative to you "static" directory
+#resume: "files/CV.pdf"
+
+# about header
+header: Get Real and Go Global
+
+# a summary about you
+summary: |
+  당신의 영문 웹사이트, 회사 자료, 해외 고객, 투자자에게 어떻게 읽히고 들리는지 아세요? 콩글리쉬, 기계적 번역투, 혼란스러운 메세지로 당신의 진정한 가치를 전달하지 못하고 계시진 않나요? 로컬라이제이션 전문 Bilingual Copywriter가 민망한 콩글리쉬를 잊지못할 영문 카피로 바꿉니다.
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Email
+  icon: "fas fa-envelope"
+  url: "contact@ajin.im"
+
+- name: Reddit
+  icon: "fab fa-reddit"
+  url: "https://www.reddit.com/user/propagandaformyself"
+
+##- name: Stackoverflow
+  ##icon: "fab fa-stack-overflow"
+  ##url: "#"
+
+- name: Twitter
+  icon: "fab fa-twitter"
+  url: "https://www.twitter.com/propagandaformyself"
+
+##- name: Facebook
+  ##icon: "fab fa-facebook"
+  ##url: "#"
+
+
+- name: CV
+  icon: "fas fa-file"
+  url: "files/CV.pdf"
+
+# Show your badges
+# You can show your verifiable certificates from https://www.credly.com.
+# You can also show a circular bar indicating the level of expertise on a certain skill
+badges:
+- type: soft-skill-indicator
+  name: 영문 웹사이트
+  percentage: 100
+  color: "#a9dfbf"
+
+- type: soft-skill-indicator
+  name: 회사 소개자료 (IR/Pitch Deck)
+  percentage: 100
+  color: yellow
+
+- type: soft-skill-indicator
+  name: 카피라이팅
+  percentage: 100
+  color: orange
+
+- type: soft-skill-indicator
+  name: 로컬라이제이션
+  percentage: 100
+  color: green
+
+# you can also provide color code instead of the color name
+# - type: soft-skill-indicator
+#   name: Example 1
+#   percentage: 75
+#   color: "#00adb5"

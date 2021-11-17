@@ -1,0 +1,19 @@
+# some information about you
+name: "Ajin"
+nickname: "Ajin"
+# greeting message before your name. it will default to "Hi! I am" if not provided
+greeting: "I'm"
+image: "images/author/profile1.png"
+# give your some contact information. they will be used in the footer
+contactInfo:
+  email: "contact@ajin.im"
+##  phone: ""
+
+# some summary about what you do
+summary:
+  - English copywriting for Korean company
+  - Landing page
+  - About page for company information
+  - UI localization
+  - Marketing copy
+  - Pitch deck
